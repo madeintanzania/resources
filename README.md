@@ -23,26 +23,30 @@ resources for dev
 
 - [Tanzania Data Lab (dLab)](https://dlab.or.tz/)
 - [College of Information and Communication Technologies](https://coict.udsm.co.tz)
+- [Information and Communication Technologies Commission](https://www.ictc.go.tz)
+- [Mamlaka ya Serikali Mtandao/ eGovernmemt Authority (eGA)](https://www.ega.go.tz/)
+- [Tanzania Commission For Science and Technology](https://www.costech.or.tz/)
+- [Nationa Beaureau of Statistics](https://www.nbs.go.tz/)
 
 ## events and meetups
 
-- [Startup School]()
-- [Startup Grind]()
-- [HackaIO]()
-- [Founder to Founders]()
-- [Headerfile]()
-- [Sahara Sparks]()
-- [Bits and Bytes]()
-- [Female Founders]()
+- [Startup School](https://silicondar.org/startup-school/index.html)
+- [Startup Grind](https://www.startupgrind.com/dar-es-salaam/)
+- [HackaIO](https://github.com/hackaio)
+- [Founder to Founders](https://smartlab.co.tz/read/founder-to-founders-event-2018)
+- [Headerfile](https://saharaventures.com/)
+- [Sahara Sparks](https://saharaventures.com/sahara-sparks)
+- [Bits and Bytes](http://www.bitsandbytesconference.com/)
+- [Female Founders](shefound.africa)
 
 ## communities
 
-- [Tanzania Developers Community]()
-- [Buni Community]()
+- [Tanzania Developers Community](www.instagram.com/tdctanzania)
+- [Buni Community](https://bunihub.or.tz/)
 - [Startup Roundtable]()
-- [TanzanAI Community]()
-- [Headerfile Community]()
-- [Blockchain Community]()
+- [TanzanAI Community](https://ailab.co.tz)
+- [Headerfile Community](https://saharaventures.com)
+- [Blockchain Community](https://blockchaintanz.com/)
 - [Dar Investors Community]()
 - [Python Community]()
 - [Google Developers Group]()
@@ -52,7 +56,7 @@ resources for dev
 
 - [UDICTII]()
 - [SmartLab](https://smartlab.co.tz)
-- [DTBI Business Incubator]()
+- [DTBI Business Incubator](https://teknohama.or.tz/)
 - [Seedspace Dar es Salaam]()
 - [Buni Innovation Hub]()
  
@@ -114,3 +118,4 @@ resources for dev
 - [Stanley Ruheza](https://github.com/maen08) - Creator of djangoroku
 - [Abdulbasit Rubeiyya](https://github.com/ibnsultan) - Creator of pyswahili
 - [Yezileli Ilomo](https://yezyilomo.me/) - Creator of Django RESTQL
+- [Edwin Bruno](https://twitter.com/iEdwn) - CEO and Founder of SmartCodes
