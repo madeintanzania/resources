@@ -101,8 +101,16 @@ resources for dev
 ## github
 
 - [Made in Tanzania](https://github.com/madeintanzania)
+- [Tanzania Developers Community](https://github.com/Tanzania-Developers-Community)
 ## youtube
 ## twitter
 
 - [Made in Tanzania](https://twitter.com/MadeTanzania)
 ## people
+
+- [Andylamax](https://github.com/andylamax) - Active member in Tanzania Developers Communities also Kotlin Dev
+- [Kalebu Jordan](https://github.com/Kalebu) - Contributor of several open source projects also a Python dev
+- [Alpha Olomi](https://github.com/alphaolomi) - Active member in TZ Dev Space and a contributor of open pesa projects
+- [Stanley Ruheza](https://github.com/maen08) - Creator of djangoroku
+- [Abdulbasit Rubeiyya](https://github.com/ibnsultan) - Creator of pyswahili
+- [Yezileli Ilomo](https://yezyilomo.me/) - Creator of Django RESTQL
