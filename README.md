@@ -46,11 +46,12 @@ resources for dev
 - [Dar Investors Community]()
 - [Python Community]()
 - [Google Developers Group]()
+- [Silicon Dar](https://silicondar.org/)
  
 ## incubators and accelerators
 
 - [UDICTII]()
-- [SmartLab]()
+- [SmartLab](https://smartlab.co.tz)
 - [DTBI Business Incubator]()
 - [Seedspace Dar es Salaam]()
 - [Buni Innovation Hub]()
@@ -98,6 +99,10 @@ resources for dev
 ## telegram
 ## twitch
 ## github
+
+- [Made in Tanzania](https://github.com/madeintanzania)
 ## youtube
 ## twitter
+
+- [Made in Tanzania](https://twitter.com/MadeTanzania)
 ## people
