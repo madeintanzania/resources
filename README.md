@@ -22,7 +22,7 @@ resources for dev
 ## websites
 
 - [Tanzania Data Lab (dLab)](https://dlab.or.tz/)
-- [College of Information and Communication Technologies](https://coict.udsm.co.tz)
+- [College of Information and Communication Technologies](https://coict.udsm.ac.tz)
 - [Information and Communication Technologies Commission](https://www.ictc.go.tz)
 - [Mamlaka ya Serikali Mtandao/ eGovernmemt Authority (eGA)](https://www.ega.go.tz/)
 - [Tanzania Commission For Science and Technology](https://www.costech.or.tz/)
@@ -51,7 +51,7 @@ resources for dev
 - [Python Community]()
 - [Google Developers Group]()
 - [Silicon Dar](https://silicondar.org/)
- 
+
 ## incubators and accelerators
 
 - [UDICTII]()
@@ -59,7 +59,7 @@ resources for dev
 - [DTBI Business Incubator](https://teknohama.or.tz/)
 - [Seedspace Dar es Salaam]()
 - [Buni Innovation Hub]()
- 
+
 ## hubs and labs
 
 - [Safe Space Co]()
